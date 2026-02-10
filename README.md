@@ -1,7 +1,7 @@
 # Titanic-survival-transfer-learning
 一个基于数据清洗和PCA特征工程、神经网络的泰坦尼克号幸存者预测
 
-【English Version】
+【English】
 
 🚀 Project Overview
 This project addresses the classic Titanic survival prediction task using PyTorch, with a specific focus on Transfer Learning. Under a constrained environment where a pre-trained feature extractor remains "frozen," I designed and optimized a custom MLP classifier to significantly enhance predictive performance.
@@ -26,7 +26,7 @@ Core: PyTorch, Python
 
 Libraries: Scikit-learn, Pandas, NumPy.
 
-【中文版】
+【中文】
 
 🚀 项目概览
 本项目使用 PyTorch 框架解决了经典的泰坦尼克号生存预测任务，核心侧重于 迁移学习 (Transfer Learning) 的应用。在“冻结”预训练特征提取器（不改变其参数）的限制条件下，我通过设计并持续优化自定义的 MLP 分类器，实现了预测性能的显著飞跃。
